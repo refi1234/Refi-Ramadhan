@@ -1,0 +1,5 @@
+nama|NIK
+
+arrafi|1234
+budi|12345
+budi|12344
